@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planets_array">
+        <item>Choose your activity(TEE)</item>
+        <item>Little to no exercise</item>
+        <item>Light exercise(1 to 3 per week)</item>
+        <item>Moderate exercise(3 to 5 days per week)</item>
+        <item>Heavy exercise(6 to 7 days per week)</item>
+        <item>Very heavy exercise(intense workouts twice per day)</item>
+    </string-array>
+</resources>
